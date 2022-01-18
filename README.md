@@ -1,4 +1,4 @@
-# Linker_EPITECH_To_GOOGLE_Calendar
+# Epitech-Notion-Automate.iosync
 Link your Epitech calendar to your Google calendar.
 
 # Installation:
